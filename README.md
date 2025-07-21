@@ -37,11 +37,11 @@ The chapter focuses on a **classification task** using the **MNIST** dataset (ha
 ## 📂 Project Structure
 
 mnist_ch3/
-├── mnist_ch3.ipynb         # Jupyter notebook with code and outputs  
-├── mnist_ch3.py            # Optional: Script version of the notebook  
-├── images/                 # Optional: Saved error analysis or sample digit images  
-├── README.md               # Project documentation (this file)  
-└── requirements.txt        # List of Python dependencies
+├── mnist_ch3.ipynb          
+├── mnist_ch3.py            
+├── images/                 
+├── README.md                 
+└── requirements.txt       
 
 ---
 
@@ -76,7 +76,3 @@ All rights for the original content and methods belong to the original author.
 
 ---
 
-## 📚 Reference
-
-- [Hands-On Machine Learning (3rd Edition)](https://github.com/ageron/handson-ml3) by Aurélien Géron  
-- Scikit-learn Documentation: https://scikit-learn.org/
