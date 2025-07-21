@@ -38,10 +38,9 @@ The chapter focuses on a **classification task** using the **MNIST** dataset (ha
 
 mnist_ch3/
 ├── mnist_ch3.ipynb          
-├── mnist_ch3.py            
-├── images/                 
+├── mnist_ch3.py                            
 ├── README.md                 
-└── requirements.txt       
+      
 
 ---
 
@@ -54,11 +53,6 @@ mnist_ch3/
 - pandas
 - Jupyter Notebook (optional)
 
-Install with:
-
-pip install -r requirements.txt
-
----
 
 ## 📊 Sample Output
 
