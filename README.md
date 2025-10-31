@@ -8,7 +8,7 @@ The chapter focuses on a **classification task** using the **MNIST** dataset (ha
 
 ---
 
-## 🚀 Project Overview
+##  Overview
 
 - **Goal:** Classify grayscale 28x28 images of digits into 10 classes (0 to 9)
 - **Dataset:** MNIST (provided by `sklearn.datasets.fetch_openml`)
@@ -24,7 +24,7 @@ The chapter focuses on a **classification task** using the **MNIST** dataset (ha
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 - How to fetch and visualize MNIST data
 - Binary vs. Multiclass classification
@@ -34,27 +34,10 @@ The chapter focuses on a **classification task** using the **MNIST** dataset (ha
 
 ---
 
-## 📂 Project Structure
-
-mnist_ch3/
-├── mnist_ch3.ipynb          
-├── mnist_ch3.py                            
-├── README.md                 
-      
-
----
-
-## 🛠️ Requirements
-
-- Python 3.7+
-- scikit-learn
-- matplotlib
-- numpy
-- pandas
-- Jupyter Notebook (optional)
 
 
-## 📊 Sample Output
+
+##  Sample Output
 
 - Confusion Matrix
 - Digit examples the model got wrong
@@ -62,7 +45,7 @@ mnist_ch3/
 
 ---
 
-## 📌 Note
+##  Note
 
 This is a **practice project** based on *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron.  
 It is meant for **educational use only**.  
